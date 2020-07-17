@@ -1,2 +1,2 @@
-    class SightingSerializer
-    end
+class SightingSerializer
+end
